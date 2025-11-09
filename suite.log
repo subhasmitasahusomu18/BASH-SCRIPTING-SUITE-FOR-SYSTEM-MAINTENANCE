@@ -1,0 +1,3 @@
+[2025-11-05 10:10:00] [INFO] Suite initialized.
+[2025-11-05 10:12:34] [INFO] Detected package manager: apt
+[2025-11-05 10:14:00] [WARN] High disk usage: 88% on /var

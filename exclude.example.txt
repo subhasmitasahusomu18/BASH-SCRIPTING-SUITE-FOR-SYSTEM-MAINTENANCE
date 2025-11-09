@@ -1,0 +1,6 @@
+# Example exclude patterns for backups
+*.o
+*.tmp
+node_modules/
+.cache/
+.DS_Store
